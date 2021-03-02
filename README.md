@@ -1,1 +1,1 @@
-keyboard_key_mapping_on_korrect_language_char
+keyboard_key_mapping_on_korrekt_language_char
